@@ -1,0 +1,122 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+body {
+  background-color: #EBEBEB;
+  font-family: 'Raleway', sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  color: #7D7D7D;
+}
+
+.container {
+  width: 600px;
+  margin: 30px auto;
+}
+
+.card {
+  background-color: white;
+  margin-bottom: 22px;
+  padding: 15px;
+  box-shadow: 2px 2px 7px rgba(220, 219, 221, 0.8);
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: lighter;
+  letter-spacing: 3px;
+  color: #EE5453;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: lighter;
+  line-height: 1.8em;
+}
+
+a {
+  color: #7D7D7D;
+}
+
+a:hover {
+  color: #EE5453;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+table {
+  font-size: 16px
+}
+
+.list-item {
+  display: inline-block;
+  padding: 0 15px;
+}
+
+.list-inline {
+  padding: 0;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.img-smaller{
+  height: 250px;
+}
+
+.text-book-description {
+  font-size: 14px;
+  text-align: justify;
+}
+
+img {
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+#title-books {
+  letter-spacing: 0.7em;
+  color: white;
+  font-size: 20px;
+  background-color: #EE5453;
+  padding: 3px 0;
+  margin-top: 0;
+
+}
+
+#nav-bar {
+  padding: 0.5px;
+}
+
+#card-main {
+  text-align: center;
+}
+
+#img-circle {
+  width: 150px;
+  border-radius: 50%;
+  padding: 0;
+}
+
+#text-name {
+  margin-bottom: 0;
+}
+
+#text-sub {
+  margin-top: 5px;
+  font-size: 18px;
+}
